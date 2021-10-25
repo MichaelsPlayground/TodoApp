@@ -28,7 +28,7 @@ class _TodoScreenState extends State<TodoScreen> {
             child: ListView.builder(
               itemBuilder: (_, int position) {
                 return Card(
-                  color: Colors.brown,
+                  color: Colors.lightBlueAccent,
                   child: ListTile(
                     title: _itemsList[position],
                     onTap: () => _updateTodoItemDialog(_itemsList[position], position),

@@ -7,6 +7,10 @@ Functions:
 - Delete note
 - list all notes
 
+taken from https://github.com/sanxy/TodoApp
+
+runs null safety
+
 ## Screenshots
 
 <img height=550 width=275 src="https://github.com/sanxy/TodoApp/blob/main/Screenshots/1.jpg"><img height=550 width=275 src="https://github.com/sanxy/TodoApp/blob/main/Screenshots/2.jpg" hspace=24/><img height=550 width=275 src="https://github.com/sanxy/TodoApp/blob/main/Screenshots/3.jpg"/> 
